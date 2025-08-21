@@ -28,7 +28,7 @@ A Python-based coffee machine project that simulates a real-world coffee vending
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/coffee-machine.git
+   git clone https://github.com/msamin-25/coffee-machine.git
    cd coffee-machine
    ```
 
