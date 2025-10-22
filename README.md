@@ -2,16 +2,6 @@
 
 A Python-based coffee machine project that simulates a real-world coffee vending experience. This program can be implemented on a machine, allowing users to select coffee flavours, view costs and ingredients, follow payment instructions, and receive change—all through a simple, interactive interface.
 
-## Features
-
-- **User-Friendly Interface:** Easily select coffee flavours and options with just a few clicks.
-- **Payment Guidance:** Step-by-step directions on how to pay for your coffee.
-- **Cost Display:** See the cost of your selected coffee before making a purchase.
-- **Ingredient Information:** View the ingredients used for each coffee flavour.
-- **Putting coin:** Put coins such as a quarter, dime, nickel or penny. 
-- **Change Calculation:** Automatically calculates and returns the correct change.
-- **Multiple Flavours:** Choose from a variety of coffee options.
-
 ## How It Works
 
 1. **Start the Program:** Launch the Python script on your machine.
@@ -30,11 +20,6 @@ A Python-based coffee machine project that simulates a real-world coffee vending
    ```bash
    git clone https://github.com/msamin-25/coffee-machine.git
    cd coffee-machine
-   ```
-
-2. **Run the script:**
-   ```bash
-   python main.py
    ```
 
 ## Example
