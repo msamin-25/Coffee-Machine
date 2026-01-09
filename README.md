@@ -1,5 +1,7 @@
 # Coffee Machine Project
 
+** This project is on the process, and will add more features.
+ 
 A Python-based coffee machine project that simulates a real-world coffee vending experience. This program can be implemented on a machine, allowing users to select coffee flavours, view costs and ingredients, follow payment instructions, and receive change—all through a simple, interactive interface.
 
 ## How It Works
