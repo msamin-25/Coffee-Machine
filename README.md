@@ -1,8 +1,8 @@
 # Coffee Machine Project
 
-** This project is on the process, and will add more features.
+** This project is on the process, and will add more features. 
  
-A Python-based coffee machine project that simulates a real-world coffee vending experience. This program can be implemented on a machine, allowing users to select coffee flavours, view costs and ingredients, follow payment instructions, and receive change—all through a simple, interactive interface.
+A Python-based coffee machine project that simulates a real-world coffee vending experience. This program can be implemented on a machine, allowing users to select coffee flavours, view costs and ingredients, follow payment instructions, and receive change—all through a simple, interactive interface. Later, I will experiment to implement this project to an actual physical machines, and I have already ordered most of the hardware pieces from Temu and Amazon, and design is ready...
 
 ## How It Works
 
